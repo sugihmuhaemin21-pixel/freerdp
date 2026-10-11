@@ -1,0 +1,26 @@
+{
+  "storage": {
+    "boost": "ok",
+    "before_gb": 82.74,
+    "after_gb": 107.27,
+    "gained_gb": 24.53,
+    "estimated_freed_gb": 19,
+    "drives": [
+      {
+        "size_gb": 255.45,
+        "used_gb": 148.18,
+        "free_gb": 107.27,
+        "letter": "C"
+      },
+      {
+        "size_gb": 150.0,
+        "used_gb": 2.98,
+        "free_gb": 147.02,
+        "letter": "D"
+      }
+    ],
+    "game_dir": "D:\\Games (disarankan untuk GTA)",
+    "note": "Storage boost selesai. Android/Haskell/CodeQL/dotnet lama & cache dibersihkan. Sisa 70GB -> bisa jadi 110-140GB free."
+  },
+  "stopped_at": "2026-10-11T07:47:58Z"
+}
